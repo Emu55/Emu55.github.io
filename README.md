@@ -19,6 +19,8 @@ The Django CRUD (Create, Read, Update, Delete) application is a web-based applic
 ### 3. [Smart Home Application](https://github.com/Emu55/Smart-Home-App) (Flask & MQTT)
 
 The Smart Home application is built using Flask and MQTT (Message Queuing Telemetry Transport) protocol. It enables users to control and monitor their smart home devices remotely, offering convenience and automation.
+![chip1](https://github.com/user-attachments/assets/635d70f6-f022-46dd-b7a9-f74e91f7bd26)
+
 
 ### 4. [GeoLearning](https://github.com/Emu55/GeoLearning) (Angular & NodeJs)
 
