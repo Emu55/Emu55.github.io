@@ -45,6 +45,11 @@ The Memo application is developed using Flutter for the frontend and Django for 
 ![flutter2](https://github.com/user-attachments/assets/ad34db41-be24-437c-b2c1-69a3f5e32abf)
 ![flutter3](https://github.com/user-attachments/assets/9af2e15f-37f8-4f4f-881c-8725a771e5e3)
 
+### 7. Parallax Portfolio Showcase (HTML, CSS & JavaScript)
+
+This project demonstrates my skills in creating advanced parallax effects using HTML, CSS, and JavaScript. It features a dynamic scrolling experience with layered visuals and smooth animations, enhancing user engagement and adding depth to the UI.
+
+
 
 ## Spoken Languages
 
