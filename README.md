@@ -6,6 +6,7 @@ Hello! I'm Aymen Rasheed, a second year student at Coventry University, aspiring
 
 I am currently seeking a placement year opportunity in software development to apply my skills and gain practical experience. I am eager to contribute to innovative solutions while furthering my understanding of software engineering principles.
 
+
 ## Projects
 
 ### 1. [Rubik's Cube Simulator]() (Unity)
@@ -48,7 +49,8 @@ The Memo application is developed using Flutter for the frontend and Django for 
 ### 7. Parallax Portfolio Showcase (HTML, CSS & JavaScript)
 
 This project demonstrates my skills in creating advanced parallax effects using HTML, CSS, and JavaScript. It features a dynamic scrolling experience with layered visuals and smooth animations, enhancing user engagement and adding depth to the UI.
-
+![web-design-gif1](https://github.com/user-attachments/assets/c7295cdc-fb57-48c4-8571-1d8ff3b0087c)
+![web-design-gif2](https://github.com/user-attachments/assets/8be839f7-1ef7-4491-81b3-19b2ea747f90)
 
 
 ## Spoken Languages
